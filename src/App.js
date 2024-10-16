@@ -19,6 +19,11 @@ function App() {
         <button className="button" onClick={handleIncrement}>+</button>
         <button className="button" onClick={handleDecrement}>-</button>
       </div>
+        <div>
+            <h2 className="heading2">
+                ЭТО КАУНТЕР
+            </h2>
+        </div>
     </div>
   );
 }
